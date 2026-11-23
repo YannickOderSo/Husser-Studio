@@ -1,0 +1,6 @@
+{
+  "name": "Huss VFX & Animation Workbench",
+  "description": "Browser-based 3D Stud Voxel VFX and Animation editor for Feed The Hussers with Roblox Luau export, keyframe rigging, and Gemini creative assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
